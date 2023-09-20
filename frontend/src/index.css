@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap');
+body{
+    font-family: 'Hind';
+}
+.color-sky-600{
+    color: rgb(30, 175, 233);
+}
